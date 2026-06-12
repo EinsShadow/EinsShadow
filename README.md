@@ -1,13 +1,4 @@
-<!--
-  EinsShadow Profile README
-  Custom Sunset/Amber Theme
--->
-
-<p align="center">
-  <img src="eins_shadow_banner.png" width="100%" alt="EinsShadow Banner" style="border-radius: 10px;" />
-</p>
-
-<h1 align="center">Hey there! Ich bin EinsShadow 👋</h1>
+<h1 align="center">Hey! Ich bin EinsShadow 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFB03A&background=00000000&center=true&vCenter=true&width=500&lines=Java+Plugin+Developer;Paper+%26+Spigot+API;Database+Architect;Building+Performant+Systems" alt="Typing SVG" />
