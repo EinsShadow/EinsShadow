@@ -68,10 +68,10 @@ Als Entwickler im Minecraft-Bereich weiß ich, wie wichtig Effizienz für ein la
 ## 📊 GitHub Statistiken
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EinsShadow&show_icons=true&bg_color=1c1612&title_color=ffa726&icon_color=ffa726&text_color=e0d5c1&border_color=3d3025&hide_border=false" width="48%" alt="EinsShadow GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EinsShadow&layout=compact&bg_color=1c1612&title_color=ffa726&icon_color=ffa726&text_color=e0d5c1&border_color=3d3025&hide_border=false" width="48%" alt="EinsShadow Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EinsShadow&show_icons=true&bg_color=1c1612&title_color=ffa726&icon_color=ffa726&text_color=e0d5c1&border_color=3d3025&hide_border=false&count_private=true" width="48%" alt="EinsShadow GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EinsShadow&layout=compact&bg_color=1c1612&title_color=ffa726&icon_color=ffa726&text_color=e0d5c1&border_color=3d3025&hide_border=false&count_private=true" width="48%" alt="EinsShadow Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EinsShadow&theme=default&background=1c1612&fire=ffa726&ring=ffa726&score=ffa726&text=e0d5c1&dates=a79883&stroke=3d3025" width="100%" alt="EinsShadow Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EinsShadow&theme=default&background=1c1612&fire=ffa726&ring=ffa726&score=ffa726&text=e0d5c1&dates=a79883&stroke=3d3025&count_private=true" width="100%" alt="EinsShadow Streak Stats" />
 </p>
